@@ -1,0 +1,15 @@
+.nav{
+	width:500px;
+	border:500px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	}
+	.flex{
+		height:100px;
+		width:100px;
+	}
+	.flexe{
+		height: 50px;
+		width: 50px;
+	}
